@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "amoledcord",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "Amoledcord for Replugged",
   "engines": {
     "node": ">=14.0.0"
   },
