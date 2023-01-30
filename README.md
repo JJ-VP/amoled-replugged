@@ -7,5 +7,5 @@ personal QOL changes.
 ## Install
 
 1. [Open the Releases page on the right](https://github.com/JJ-VP/amoled-replugged/releases)
-2. Download the dev.replugged.Amoled.asar
+2. Download the dev.JJ.Amoled.asar
 3. [Place the asar into the replugged themes folder](https://github.com/replugged-org/replugged#installing-plugins-and-themes)
