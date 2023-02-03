@@ -9,3 +9,8 @@ personal QOL changes.
 1. [Open the Releases page on the right](https://github.com/JJ-VP/amoled-replugged/releases)
 2. Download the dev.JJ.Amoled.asar
 3. [Place the asar into the replugged themes folder](https://github.com/replugged-org/replugged/wiki/Installing-plugins-and-themes)
+
+## QOL changes made
+
+- Minimised member list (Expands on hover)
+- Themed some missed elements
