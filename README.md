@@ -6,12 +6,20 @@ personal QOL changes.
 
 ## Install
 
-1. Download the latest [dev.JJ.Amoled.asar](https://github.com/JJ-VP/amoled-replugged/releases/latest/download/dev.JJ.Amoled.asar)
+### Automatic:
+
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=jj-vp/amoled-replugged&source=github)
+
+### Manual:
+
+1. Download the latest
+   [dev.JJ.Amoled.asar](https://github.com/JJ-VP/amoled-replugged/releases/latest/download/dev.JJ.Amoled.asar)
 2. [Place the asar into the replugged themes folder](https://github.com/replugged-org/replugged/wiki/Installing-plugins-and-themes)
 
 ## QOL changes made
 
-- Minimised member list (Expands on hover)
+- Minimised member list (Expands on hover, Sticky role)
+- Modern role icons (User popout)
 - Themed some missed elements
 
 ## Preview
